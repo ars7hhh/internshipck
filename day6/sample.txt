@@ -1,0 +1,3 @@
+welcome to AIML internship
+Comedkares,jp nagar
+python file handling
